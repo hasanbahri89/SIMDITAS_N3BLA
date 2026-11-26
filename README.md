@@ -1,2 +1,2 @@
 # SIMDITAS_N3BLA
-Sistem Manajemen Digitalisasi Arsi Surat
+Sistem Manajemen Digitalisasi Arsip Surat
